@@ -39,15 +39,9 @@ The materials in this repository are intended to support both **event participan
 - **Tools:** https://semanticclimate.github.io/p/en/tools/
 - **GitHub:** https://github.com/semanticClimate
 
-## Contributing
-
-We welcome contributions to improve outreach materials, tutorials, documentation, and examples.
-
-If you have suggestions or would like to contribute new resources, please open an **Issue** 
-
 ## License
 
-Unless otherwise specified, materials in this repository are shared under an open license to support reuse, adaptation, and further dissemination.
+Apache-2.0 license
 
 ---
 
