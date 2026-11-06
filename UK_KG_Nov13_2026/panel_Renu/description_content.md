@@ -1,9 +1,9 @@
 
 # What the Graph Shows
 
-### Query : El Niño AND biodiversity
+### Query : El Niño AND biodiversity | Scientific literature corpus : 50
 
-## [Link to the graph]()
+## [Link to the graph](https://github.com/semanticClimate/outreach/blob/main/UK_KG_Nov13_2026/panel_Renu/output-KG-encyclopedia.html)
 
 It is one network with two layers on the same set of terms:
 
