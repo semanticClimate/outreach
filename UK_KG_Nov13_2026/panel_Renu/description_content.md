@@ -5,7 +5,7 @@
 
 ## [Link to the output graph](https://github.com/semanticClimate/outreach/blob/main/UK_KG_Nov13_2026/panel_Renu/output-KG-encyclopedia.html)
 
-## [Script to make KG from encyclopedia](https://github.com/semanticClimate/encyclopedia/blob/renu/drawKG/build_KGencyclopedia.py)
+## [Script to make KG from encyclopedia](https://github.com/semanticClimate/encyclopedia/blob/renu/drawKG/buildKGencyclopedia_rdf.py)
 
 
 **Aim:** link 45 research papers to 284 encyclopedia terms, and compare what the literature says with how the encyclopedia organises the same concepts.
